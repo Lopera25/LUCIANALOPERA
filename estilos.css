@@ -11,7 +11,7 @@
     
     body{
     
-    background-image: url("nacional.jpg");
+    background-image: url("fondo\ imagen\ verde.jpg");
     
     background-repeat: no-repeat;
     
@@ -45,7 +45,7 @@
     
      
     
-    height: 230px;
+    height: 400px;
     
      
     
@@ -87,16 +87,16 @@
         
         float:left;
         
-        height: 200px;
+        height: 300px;
         
-        width: 260px;
+        width: 480px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
-        
+        background-image: url("imagentecno.jpg");
+       
         }
         
         
@@ -144,7 +144,7 @@
             
             margin-right:5px;
             
-            background-image: url("");
+            background-image: url("imagensoci.jpg");
             
             }
             
@@ -290,7 +290,7 @@
                         
                         margin-right:5px;
                         
-                        background-image: url("medellin.jpeg");
+                        background-image: url("imagenmate.jpg");
                         
                         }
                         
@@ -310,13 +310,13 @@
 
                         .contenido{
 
-                            height: 280px;
+                            height: 400px;
                             
-                            width: 100%;
+                            width: 200%;
                             
                             position: absolute;
                             
-                            top: 410px;
+                            top: 360px;
                             
                              
                             
@@ -329,15 +329,15 @@
                             
                             float:left;
                             
-                            height: 200px;
+                            height: 280px;
                             
-                            width: 260px;
+                            width: 280px;
                             
                             margin-left: 5px;
                             
                             margin-right:5px;
                             
-                            background-image: url("medellin.jpeg");
+                            background-image: url("Imagen\ religion.jpg");
                             
                             }
                             
@@ -349,7 +349,7 @@
                             
                             color: azure;
                             
-                            font-size: 20px;
+                            font-size: 30px;
                             
                             
                             
